@@ -1,1 +1,1 @@
-# TitanicWithML
+# TitanicWithMachineLearning
